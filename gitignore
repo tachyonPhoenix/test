@@ -1,0 +1,26 @@
+# Top level build directories
+/bin
+/lib
+/lib64
+
+# Build artifacts
+*.o
+
+# Auto-generated fiels from toolchains - uncomment
+# *.pro.user*
+# Makefile
+
+
+# Temporary files
+*.temp
+*.log
+
+# Additional temp files for later - uncomment
+# *.zip
+# *./log/bin
+# /build
+# /lib
+# /obj
+# *.pro.user*
+# Makefile*
+# *.o
